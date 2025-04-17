@@ -1,0 +1,7 @@
+{
+    "theme": "Dark",
+    "font_size": 15,
+    "auto_refresh": true,
+    "refresh_interval": 30,
+    "default_export_format": "Excel"
+}
